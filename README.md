@@ -24,11 +24,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VisibleNasir/VisibleNasir/output/snake.svg" />
-</p>
 
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nasir-nadaf-2014362a0/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
